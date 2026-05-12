@@ -1,17 +1,15 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-objectid,Object ID,FALSE,FALSE,,
-display_template,Display Template,FALSE,FALSE,,
-object_location,Object Location,FALSE,FALSE,,url
-title,Title,FALSE,FALSE,<dcterms:Title>,name
-creator,Creator,FALSE,FALSE,<dcterms:Creator>,creator
-date,Date Created,FALSE,FALSE,<dcterms:Date>,dateCreated
-dimensions,Dimensions,FALSE,FALSE,<dcterms:Format>,height;width
-rights,Rights,FALSE,FALSE,<dcterms:Rights>,copyrightHolder
-rightsstatement,Rights Statement,FALSE,TRUE,,
-description,Description,FALSE,FALSE,<dcterms:Description>,description
-identifier,Aboriginal Community Art Centre cat. no.,FALSE,FALSE,,
-languagegroup,Language Group,FALSE,FALSE,,
-birthdate,Birth Date,FALSE,FALSE,<dcterms:Date>,birthDate
-exhibitions,Exhibition Name,TRUE,FALSE,<dcterms:Title>,isPartOf
-publications,Publication Name,TRUE,FALSE,<dcterms:Source>,publication
-provenance,Provenance,TRUE,FALSE,<dcterms:Provenance>,OwnershipInfo
+objectid,Object ID,,,,
+title,Title,,,DCTERMS.Title,name
+creator,Creator,true,,DCTERMS.Creator,creator
+date,Date Created,,,DCTERMS.Date,dateCreated
+dimensions,Dimensions,,,DCTERMS.Format,height;width
+rights,Rights,,,DCTERMS.Rights,copyrightHolder
+rightsstatement,Rights Statement,,true,,
+description,Description,,,DCTERMS.Description,description
+identifier,Aboriginal Community Art Centre cat. no.,,,,
+languagegroup,Language Group,true,,,
+birthdate,Birth Date,,,DCTERMS.Date,birthDate
+exhibitions,Exhibition Name,,,DCTERMS.Title,isPartOf
+publications,Publication Name,,,DCTERMS.Source,publication
+provenance,Provenance,,,DCTERMS.Provenance,OwnershipInfo
