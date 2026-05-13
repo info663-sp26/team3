@@ -22,6 +22,14 @@ padding: 6em
 
 This site includes 15 items from [Two Collections](https://twocollections.com/), two Indigenous Australian art collections featuring modern and contemporary paintings on canvas or board. The works on this site have been cataloged using information from the Two Collections website.
 
+This cataloging project was guided by the [CARE Principles for Indigenous Data Governance](https://ardc.edu.au/resource/the-care-principles/):
+- Collective Benefit
+- Authority to Control
+- Responsibility
+- Ethics
+
+This site will be updated based on community input. If you wish to submit a comment, question, or suggested change to the artwork and/or artist information on the site, please email adean83@pratt.edu and we will review your request. 
+
 ## About Two Collections
 
 Two Collections brings together paintings on canvas or board from Indigenous Australian art collections of Steve Martin & Anne Stringfield and John & Barbara Wilkerson. The Wilkerson collection features paintings from approximately 1971-1985, while Martin and Stringfield have focused on works from 1985 onward. The four collectors have created a non-commercial website showcasing the paintings to allow for reference, scholarship, and appreciation.
