@@ -11,5 +11,5 @@ identifier,Aboriginal Community Art Centre cat. no.,,,,
 languagegroup,Language Group,true,,,
 birthdate,Birth Date,,,DCTERMS:Date,birthDate
 exhibitions,Exhibition Name,true,,DCTERMS:Title,isPartOf
-publications,Publication Name,true,,DCTERMS:Source,publication
+publications,Publication Name,,,DCTERMS:Source,publication
 provenance,Provenance,,,DCTERMS:Provenance,OwnershipInfo
