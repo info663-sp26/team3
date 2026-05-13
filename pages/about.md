@@ -24,14 +24,7 @@ This site features items from [Two Collections](https://twocollections.com/),
 
 ## About Two Collections
 
-Two Collections brings together works from Indigenous Australian art collections of Steve Martin & Anne Stringfield and John & Barbara Wilkerson. 
-
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Two Collections brings together paintings on canvas or board from Indigenous Australian art collections of Steve Martin & Anne Stringfield and John & Barbara Wilkerson. The Wilkerson collection features works from approximately 1971-1985, while the Martin/Stringfield works are more recent. The four collectors have created a website featuring the paintings for reference, scholarship, and appreciation.
 
 [CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
 See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
