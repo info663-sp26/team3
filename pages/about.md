@@ -17,6 +17,7 @@ padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+
 ## About 15 Aboriginal Artworks
 
 This site includes 15 items from [Two Collections](https://twocollections.com/), two Indigenous Australian art collections featuring modern and contemporary paintings on canvas or board. The works on this site have been cataloged using information from the Two Collections website.
