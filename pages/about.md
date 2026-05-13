@@ -20,7 +20,7 @@ padding: 6em
 
 ## About 15 Aboriginal Artworks
 
-This site features items from [Two Collections] (https://twocollections.com/), 
+This site features items from [Two Collections](https://twocollections.com/), 
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
