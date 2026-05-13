@@ -22,7 +22,10 @@ padding: 6em
 
 This site features items from [Two Collections](https://twocollections.com/), 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+## About Two Collections
+
+Two Collections brings together works from Indigenous Australian art collections of Steve Martin & Anne Stringfield and John & Barbara Wilkerson. 
+
 
 - a CSV of collection metadata
 - a folder of images, PDFs, audio, or video files
