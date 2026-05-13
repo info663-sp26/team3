@@ -5,7 +5,7 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: demo_031
+about-featured-image: [demo_031](https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-twocollections/usr/images/artworks/main_image/items/b4/b407da986f0e48ca98937166a8ecdc38/richard_bell_where_is_the_outrage_2023.jpg)
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
@@ -17,7 +17,6 @@ padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-featured-image: https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-twocollections/usr/images/artworks/main_image/items/b4/b407da986f0e48ca98937166a8ecdc38/richard_bell_where_is_the_outrage_2023.jpg 
 ## About 15 Aboriginal Artworks
 
 This site includes 15 items from [Two Collections](https://twocollections.com/), two Indigenous Australian art collections featuring modern and contemporary paintings on canvas or board. The works on this site have been cataloged using information from the Two Collections website.
