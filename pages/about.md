@@ -20,11 +20,12 @@ padding: 6em
 
 ## About 15 Aboriginal Artworks
 
-This site features items from [Two Collections](https://twocollections.com/), 
+This site includes 15 items from [Two Collections](https://twocollections.com/), two Indigenous Australian art collections featuring modern and contemporary paintings on canvas or board. The works on this site have been cataloged using information 
 
 ## About Two Collections
 
-Two Collections brings together paintings on canvas or board from Indigenous Australian art collections of Steve Martin & Anne Stringfield and John & Barbara Wilkerson. The Wilkerson collection features works from approximately 1971-1985, while the Martin/Stringfield works are more recent. The four collectors have created a website featuring the paintings for reference, scholarship, and appreciation.
+Two Collections brings together paintings on canvas or board from Indigenous Australian art collections of Steve Martin & Anne Stringfield and John & Barbara Wilkerson. The Wilkerson collection features paintings from approximately 1971-1985, while Martin and Stringfield have focused on works from 1985 onward. The four collectors have created a non-commercial website showcasing the paintings to allow for reference, scholarship, and appreciation.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+## Our Team
+
+This site was created by Alana Maisel, Ariel Wexler, Alex Dean, and Kelly Franck.
