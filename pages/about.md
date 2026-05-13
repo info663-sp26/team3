@@ -28,4 +28,4 @@ Two Collections brings together paintings on canvas or board from Indigenous Aus
 
 ## Our Team
 
-This site was created by Alana Maisel, Ariel Wexler, Alex Dean, and Kelly Franck.
+This site was created by Alana Maisel, Ariel Wexler, Alex Dean, and Kelly Franck for Professor Alexandra Provo's Spring 2026 Metadata Design course at Pratt Institute.
