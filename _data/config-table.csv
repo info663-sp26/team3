@@ -1,5 +1,7 @@
 field,display_name
 title,Title
 date,Date
-description,Description
-subject,Subjects
+creator,Creator
+dimensions,Dimensions
+languagegroup,Language Group
+identifier,Aboriginal Community Art Centre cat. no.
