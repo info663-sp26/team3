@@ -39,7 +39,7 @@ metadata: "two_collections_2"
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 page_gen:
 - data: 'two_collections_2'
-template: 'item'
+template: 'record'
 name: 'objectid'
 dir: 'items'
 extension: 'html' 
