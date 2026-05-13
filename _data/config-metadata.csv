@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 objectid,Object ID,,,,
-title,Title,,,DCTERMS.Title,name
-creator,Creator,true,,DCTERMS.Creator,creator
-date,Date Created,,,DCTERMS.Date,dateCreated
-dimensions,Dimensions,,,DCTERMS.Format,height;width
-rights,Rights,,,DCTERMS.Rights,copyrightHolder
+title,Title,,,DCTERMS:Title,name
+creator,Creator,true,,DCTERMS:Creator,creator
+date,Date Created,,,DCTERMS:Date,dateCreated
+dimensions,Dimensions,,,DCTERMS:Format,Size
+rights,Rights,,,DCTERMS:Rights,copyrightHolder
 rightsstatement,Rights Statement,,true,,
-description,Description,,,DCTERMS.Description,description
+description,Description,,,DCTERMS:Description,description
 identifier,Aboriginal Community Art Centre cat. no.,,,,
 languagegroup,Language Group,true,,,
-birthdate,Birth Date,,,DCTERMS.Date,birthDate
-exhibitions,Exhibition Name,,,DCTERMS.Title,isPartOf
-publications,Publication Name,,,DCTERMS.Source,publication
-provenance,Provenance,,,DCTERMS.Provenance,OwnershipInfo
+birthdate,Birth Date,,,DCTERMS:Date,birthDate
+exhibitions,Exhibition Name,,,DCTERMS:Title,isPartOf
+publications,Publication Name,,,DCTERMS:Source,publication
+provenance,Provenance,,,DCTERMS:Provenance,OwnershipInfo
